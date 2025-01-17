@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "perfil": "https://i.pinimg.com/474x/de/5b/bc/de5bbcb8d6e00c2007742eff0e492961.jpg",
+        "canal": "PokeGames",
+        "titulo": "Evento natalino no pokemon TCG",
+        "thumbnail": "https://i.pinimg.com/236x/e6/b8/66/e6b86632d2e199bb17c441dcd28a2307.jpg"
+    },
+    {
+        "id": 2,
+        "perfil": "https://i.pinimg.com/236x/3d/1f/bf/3d1fbfee9b16c3fde90d55d2e87412e7.jpg",
+        "canal": "DevCoffe",
+        "titulo": "Como conseguir uma vaga de desenvolvedor no exterior",
+        "thumbnail": "https://i.pinimg.com/236x/91/e5/26/91e526d66233ceaa796cede1577b74fd.jpg"
+    },
+    {
+        "id": 3,
+        "perfil": "https://i.pinimg.com/236x/f8/f1/16/f8f11609083c69d71aaee0a02ad40f9c.jpg",
+        "canal": "GamesWolrd",
+        "titulo": "Crinado um menu de start no game maker",
+        "thumbnail": "https://i.pinimg.com/736x/72/70/96/727096680518d24fcaf9b626da5c7c92.jpg"
+    },
+    {
+        "id": 4,
+        "perfil": "https://i.pinimg.com/474x/b7/c3/a0/b7c3a0ef77fd264ffc3b48c1d8495d89.jpg",
+        "canal": "IndieGames",
+        "titulo": "6 truques para platinar Hollow Knight",
+        "thumbnail": "https://i.pinimg.com/236x/0a/e0/b6/0ae0b61c35ebe1278825143ef708bac9.jpg"
+    },
+    {
+        "id": 5,
+        "perfil": "https://i.pinimg.com/236x/5b/91/e4/5b91e4a4717dbddf6c33ede9d9a809a6.jpg",
+        "canal": "PixelLover",
+        "titulo": "Como começar na pixel art",
+        "thumbnail": "https://i.pinimg.com/236x/db/0c/0e/db0c0e6ef196823b5f11922fcf70bb01.jpg"
+    },
+    {
+        "id": 6,
+        "perfil": "https://i.pinimg.com/236x/57/d9/f0/57d9f011dffce04a5af02cef4a81f551.jpg",
+        "canal": "Lofi playlist",
+        "titulo": "Lofi hip hop for work",
+        "thumbnail": "https://i.pinimg.com/236x/57/e9/0d/57e90d5e93808bec2cebf9cdc08425e1.jpg"
+    },
+    {
+        "id": 7,
+        "perfil": "https://i.pinimg.com/236x/77/6f/be/776fbe00adc5f8324052c745bb2eb9ce.jpg",
+        "canal": "Dev Dicas",
+        "titulo": "9 dicas para melhorar seu código",
+        "thumbnail": "https://i.pinimg.com/474x/1b/eb/2d/1beb2d36fab28eb565e58d42016aa83d.jpg"
+    },
+    {
+        "id": 8,
+        "perfil": "https://i.pinimg.com/236x/7f/63/78/7f6378f351d27ebfe9a41fc511a5ce21.jpg",
+        "canal": "Manhwa Cortes",
+        "titulo": "Ele reencarnou na pré-história e agora tem que sobreviver",
+        "thumbnail": "https://i.pinimg.com/474x/cb/09/9c/cb099c59a8f7e8a7ea0ca677dc9816cf.jpg"
+    }
+]

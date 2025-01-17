@@ -31,14 +31,12 @@
     width: 40px;
     height: 40px;
     border-radius: 20px;
-    background-color: #2c3a6d;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    overflow: hidden;
 
     img{
-      width: 24px;
+      width:100%;
+      height: 100%;
+      object-fit: cover;
     }
   }
 }
@@ -58,6 +56,7 @@
     border-radius: 8px;
     overflow: hidden;
     margin: 0 auto;
+    
 
     .thumbnail{
       width: 100%;
@@ -70,6 +69,7 @@
         width:100%;
         height: 100%
         object-fit: cover;
+        background-position: center;
       }
     }
 
@@ -85,6 +85,28 @@
         margin-bottom: 8px;
         font-weight: 500;
       }
+
+    .perfil_canal{
+      display:flex;
+      flex-direction:row;
+      width: 100%;
+      text-align: center;
+      align-items: center;
+      gap: 1rem;
+
+      .profile_video{
+        width: 40px;
+        height: 40px;
+        border-radius: 20px;
+        overflow: hidden;
+    
+        img{
+          width:100%;
+          height: 100%;
+          object-fit: cover;
+        }
+      }
+    }
 
       p{
         font-size: 14px;
